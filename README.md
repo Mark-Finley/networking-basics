@@ -18,7 +18,7 @@ Welcome to the Networking Basics repository. This project aims to provide a comp
 To get started with this repository, clone the repo and follow the instructions in the respective sections.
 
 ```bash
-git clone https://github.com/yourusername/networking-basics.git
+git clone https://github.com/Mark-Finley/networking-basics.git
 cd networking-basics
 ```
 
